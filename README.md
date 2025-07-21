@@ -55,6 +55,3 @@ titanic.csv – Original dataset
 titanic_visuals.png – EDA charts screenshot
 
 README.md – Project documentation
-
-🔗 GitHub Link
-https://github.com/Fasi12345/SCT_DS_Task02
