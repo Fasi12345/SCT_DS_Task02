@@ -1,4 +1,4 @@
-Task 02 - Exploratory Data Analysis (EDA) on Titanic Dataset
+# Task 02 - Exploratory Data Analysis (EDA) on Titanic Dataset
 This project was completed as part of my internship at SkillCraft Technologies.
 The task involved performing Exploratory Data Analysis (EDA) on the Titanic dataset using Python (in Google Colab) to understand passenger demographics, survival patterns, and key influencing features.
 
